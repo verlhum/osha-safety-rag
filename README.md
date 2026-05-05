@@ -19,6 +19,7 @@ Retrieved OSHA records are shown below the answer for source inspection and vali
 ![Records](images/app_records.png)
 
 ### Filtering Controls
+Metadata filters allow narrowing results by state, date range, and injury outcome.
 ![Filters](images/app_filters.png)
 
 ## Why This Project
