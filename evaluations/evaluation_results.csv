@@ -1,0 +1,11 @@
+query,top_k,retrieval_relevance_1_to_5,answer_grounding_1_to_5,citation_quality_1_to_5,notes,failure_type
+What qualitative patterns appear in forklift hand injury records? Do not count incidents.,10,4,5,4,Retrieval included arm/foot injuries. Claim crushed or pinched when text did not suport.,Over generalized
+What patterns appear in conveyor-related amputation records? Do not count incidents.,10,4,5,4,"Amputation unrelated to conveyor belt, citation does not support conclusion",Over generalized
+Describe qualitative patterns in ladder fall incidents. Do not count incidents.,10,5,4,5,Used counting words such as often and commonly,Using counting words
+What patterns appear in chemical eye exposure incidents? Do not count incidents.,10,5,3,5,Answer was generalized to single pattern instead of recognizing multiple patterns,Over generalized
+What qualitative patterns appear in pallet jack injury incidents? Do not count incidents.,10,5,3,5,Answer was generalized to single pattern instead of recognizing multiple patterns,Over generalized
+What patterns appear in machinery-related finger amputations? Do not count incidents.,10,5,3,3,Answer was generalized to single pattern instead of recognizing multiple patterns. Made up a citation that was 1 character from an actual Incident ID.,Over generalized
+What patterns appear in injuries during maintenance or cleaning? Do not count incidents.,10,5,3,4,"Answer was generalized to single pattern instead of recognizing multiple patterns, Citations not clickable",Over generalized
+What qualitative patterns appear in warehouse material-handling injuries? Do not count incidents.,10,3,3,5,Pulled irrelevant records. Citations do not support conclusions.,Irrelevant records
+What patterns appear in burn incidents involving welding or torches? Do not count incidents.,10,5,5,5,"Accurately pulled records, cited records and listed patterns",
+What patterns appear in injuries involving caught hands in machinery? Do not count incidents.,10,4,4,5,Pulled couple of irrelevant records. Reponse not always grounded.,Irrelevant records and over generalization

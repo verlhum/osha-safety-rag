@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+.venv/
+
+# Data (avoid huge files)
+data/
+*.parquet
+*.faiss
+
+# OS
+.DS_Store
+
+# Streamlit
+.streamlit/
+
+# Logs
+*.log
