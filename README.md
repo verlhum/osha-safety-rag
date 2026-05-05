@@ -14,6 +14,10 @@ Semantic search interface with filters and grounded LLM response.
 LLM-generated summary constrained to retrieved records with clickable Incident ID citations and validation warnings for hallucinated IDs.
 ![Answer](images/app_answer.png)
 
+### Retrieved Source Records
+Retrieved OSHA records are shown below the answer for source inspection and validation.
+![Records](images/app_records.png)
+
 ### Filtering Controls
 ![Filters](images/app_filters.png)
 
