@@ -14,10 +14,6 @@ Semantic search interface with filters and grounded LLM response.
 LLM-generated summary constrained to retrieved records with clickable Incident ID citations and validation warnings for hallucinated IDs.
 ![Answer](images/app_answer.png)
 
-### Generated Answer with Grounded Citations
-Includes validation for hallucinated or altered Incident IDs.
-![Answer](images/app_answer.png)
-
 ### Filtering Controls
 ![Filters](images/app_filters.png)
 
